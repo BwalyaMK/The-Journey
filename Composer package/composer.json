@@ -1,0 +1,18 @@
+{
+    "name": "kalambo/custom-composer-package",
+    "description": "Building a custom composer package for educational purposes",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kalambo\\CustomComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "BwalyaMK",
+            "email": "kalambobwalya@gmail.com"
+        }
+    ],
+    "require": {}
+}
