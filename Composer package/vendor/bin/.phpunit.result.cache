@@ -1,0 +1,1 @@
+{"version":1,"defects":{"StringUtilsTest::testTruncate":7},"times":{"StringUtilsTest::testCapitalize":0.005,"StringUtilsTest::testSlugify":0,"StringUtilsTest::testTruncate":0}}
