@@ -7,14 +7,14 @@ namespace Composer\Autoload;
 class ComposerStaticInit6e45dcc814fe95a425a79db7bc4fc19b
 {
     public static $prefixLengthsPsr4 = array (
-        'K' => 
+        'K' =>
         array (
             'Kalambo\\CustomComposerPackage\\' => 30,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Kalambo\\CustomComposerPackage\\' => 
+        'Kalambo\\CustomComposerPackage\\' =>
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
